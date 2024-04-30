@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Detail";
+}
+
+@model Product
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="card">
+                    <img class="card-img-top" src="~/assets/images/demos/demo1/products/@Model.Image" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Name</h5>
+                        <p class="card-text">Description : @Model.Description</p>
+                        <p class="card-text">Price : @Model.Price</p>
+                        <a asp-action="Index" class="btn btn-primary">Return</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

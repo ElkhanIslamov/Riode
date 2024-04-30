@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Riode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|d:\\desktop\\riode\\riode\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|solutionrelative:riode\\views\\shared\\components\\product\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|d:\\desktop\\riode\\riode\\views\\productdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|solutionrelative:riode\\views\\productdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|d:\\desktop\\riode\\riode\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|solutionrelative:riode\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|d:\\desktop\\riode\\riode\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|solutionrelative:riode\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|d:\\desktop\\riode\\riode\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|solutionrelative:riode\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|d:\\desktop\\riode\\riode\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|solutionrelative:riode\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|D:\\Desktop\\Riode\\riode\\components\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBC054C-15DB-4CD8-903C-69BB80C054BF}|Riode\\Riode.csproj|solutionrelative:riode\\components\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Riode\\Riode\\Views\\ProductDetail\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Views\\ProductDetail\\Index.cshtml",
+              "ToolTip": "D:\\Desktop\\Riode\\Riode\\Views\\ProductDetail\\Index.cshtml",
+              "RelativeToolTip": "Riode\\Views\\ProductDetail\\Index.cshtml",
+              "ViewState": "AQIAADsCAAAAAAAAAAAAALQCAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T16:55:07.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDetailController.cs",
+              "DocumentMoniker": "D:\\Desktop\\Riode\\Riode\\Controllers\\ProductDetailController.cs",
+              "RelativeDocumentMoniker": "Riode\\Controllers\\ProductDetailController.cs",
+              "ToolTip": "D:\\Desktop\\Riode\\Riode\\Controllers\\ProductDetailController.cs",
+              "RelativeToolTip": "Riode\\Controllers\\ProductDetailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:53:01.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Riode\\Riode\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "D:\\Desktop\\Riode\\Riode\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Riode\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T16:17:07.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Riode\\Riode\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ToolTip": "D:\\Desktop\\Riode\\Riode\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "RelativeToolTip": "Riode\\Views\\Shared\\Components\\Product\\Default.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T15:22:17.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Riode\\Riode\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "Riode\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "D:\\Desktop\\Riode\\Riode\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "Riode\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAswEkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T12:26:18.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Desktop\\Riode\\Riode\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Riode\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Desktop\\Riode\\Riode\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Riode\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwC4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:10:48.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "D:\\Desktop\\Riode\\Riode\\Components\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "Riode\\Components\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "D:\\Desktop\\Riode\\Riode\\Components\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "Riode\\Components\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:15:12.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

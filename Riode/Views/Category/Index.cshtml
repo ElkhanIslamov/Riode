@@ -1,0 +1,161 @@
+﻿
+@{
+    ViewData["Title"] = "Category";
+}
+
+<main class="main">
+	<div class="page-header"
+		 style="background-image: url('~/assets/images/shop/page-header-back.jpg'); background-color: #3C63A4;">
+		<h1 class="page-title">Riode Shop</h1>
+		<ul class="breadcrumb">
+			<li><a href=demo1.html"><i class="d-icon-home"></i></a></li>
+			<li class="delimiter">/</li>
+			<li>Riode Shop</li>
+		</ul>
+	</div>
+	<!-- End PageHeader -->
+	<div class="page-content mb-10 pb-3">
+		<div class="container">
+			<div class="row main-content-wrap gutter-lg">
+				<aside class="col-lg-3 sidebar sidebar-fixed sidebar-toggle-remain shop-sidebar sticky-sidebar-wrapper">
+					<div class="sidebar-overlay"></div>
+					<a class="sidebar-close" href="~/assets/#"><i class="d-icon-times"></i></a>
+					<div class="sidebar-content">
+						<div class="sticky-sidebar" data-sticky-options="{'top': 10}">
+							<div class="filter-actions mb-4">
+								<a href="~/assets/#"
+								   class="sidebar-toggle-btn toggle-remain btn btn-outline btn-primary btn-icon-right btn-rounded">
+									Filter<i class="d-icon-arrow-left"></i>
+								</a>
+								<a href="~/assets/#" class="filter-clean">Clean All</a>
+							</div>
+							<div class="widget widget-collapsible">
+								<h3 class="widget-title">All Categories</h3>
+								<ul class="widget-body filter-items search-ul">
+									<li><a href="~/assets/#">Accessosries</a></li>
+									<li>
+										<a href="~/assets/#">Bags</a>
+										<ul style="display: block">
+											<li><a href="~/assets/#">Backpacks & Fashion Bags</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="~/assets/#">Electronics</a>
+										<ul>
+											<li><a href="~/assets/#">Computer</a></li>
+											<li><a href="~/assets/#">Gaming & Accessosries</a></li>
+										</ul>
+									</li>
+									<li><a href="~/assets/#">For Fitness</a></li>
+									<li><a href="~/assets/#">Home & Kitchen</a></li>
+									<li><a href="~/assets/#">Men's</a></li>
+									<li><a href="~/assets/#">Shoes</a></li>
+									<li><a href="~/assets/#">Sporting Goods</a></li>
+									<li><a href="~/assets/#">Summer Season's</a></li>
+									<li><a href="~/assets/#">Travel & Clothing</a></li>
+									<li><a href="~/assets/#">Watches</a></li>
+									<li><a href="~/assets/#">Women’s</a></li>
+									<li><a href="~/assets/#">Pet Toys</a></li>
+								</ul>
+							</div>
+							<div class="widget widget-collapsible">
+								<h3 class="widget-title">Filter by Price</h3>
+								<div class="widget-body mt-3">
+									<form action="#">
+										<div class="filter-price-slider"></div>
+
+										<div class="filter-actions">
+											<div class="filter-price-text mb-4">
+												Price:
+												<span class="filter-price-range"></span>
+											</div>
+											<button type="submit"
+													class="btn btn-dark btn-filter btn-rounded">
+												Filter
+											</button>
+										</div>
+									</form><!-- End Filter Price Form -->
+								</div>
+							</div>
+							<div class="widget widget-collapsible">
+								<h3 class="widget-title">Size</h3>
+								<ul class="widget-body filter-items">
+									<li><a href="~/assets/#">Extra Large</a></li>
+									<li><a href="~/assets/#">Large</a></li>
+									<li><a href="~/assets/#">Medium</a></li>
+									<li><a href="~/assets/#">Small</a></li>
+								</ul>
+							</div>
+							<div class="widget widget-collapsible">
+								<h3 class="widget-title">Color</h3>
+								<ul class="widget-body filter-items">
+									<li><a href="~/assets/#">Black</a></li>
+									<li><a href="~/assets/#">Blue</a></li>
+									<li><a href="~/assets/#">Green</a></li>
+									<li><a href="~/assets/#">White</a></li>
+								</ul>
+							</div>
+							<div class="widget widget-collapsible">
+								<h3 class="widget-title">Brands</h3>
+								<ul class="widget-body filter-items">
+									<li><a href="~/assets/#">Cinderella</a></li>
+									<li><a href="~/assets/#">Comedy</a></li>
+									<li><a href="~/assets/#">Rightcheck</a></li>
+									<li><a href="~/assets/#">SkillStar</a></li>
+									<li><a href="~/assets/#">SLS</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</aside>
+				<div class="col-lg-9 main-content">
+					<nav class="toolbox sticky-toolbox sticky-content fix-top">
+						<div class="toolbox-left">
+							<a href="~/assets/#"
+							   class="toolbox-item left-sidebar-toggle btn btn-sm btn-outline btn-primary btn-rounded btn-icon-right d-lg-none">
+								Filter<i class="d-icon-arrow-right"></i>
+							</a>
+							<div class="toolbox-item toolbox-sort select-box text-dark">
+								<label>Sort By :</label>
+								<select name="orderby" class="form-control">
+									<option value="default">Default</option>
+									<option value="popularity" selected="selected">Most Popular</option>
+									<option value="rating">Average rating</option>
+									<option value="date">Latest</option>
+									<option value="price-low">Sort forward price low</option>
+									<option value="price-high">Sort forward price high</option>
+									<option value="">Clear custom sort</option>
+								</select>
+							</div>
+						</div>
+						<div class="toolbox-right">
+							<div class="toolbox-item toolbox-show select-box text-dark">
+								<label>Show :</label>
+								<select name="count" class="form-control">
+									<option value="12">12</option>
+									<option value="24">24</option>
+									<option value="36">36</option>
+								</select>
+							</div>
+							<div class="toolbox-item toolbox-layout">
+								<a href="~/assets/shop-list.html" class="d-icon-mode-list btn-layout"></a>
+								<a href="~/assets/shop.html" class="d-icon-mode-grid btn-layout active"></a>
+							</div>
+						</div>
+					</nav>
+					<div class="row cols-2 cols-sm-3 product-wrapper" id="productBox">
+						<input id="productCount" value="@ViewBag.ProductCount" hidden></input>
+						@await Component.InvokeAsync("Product")
+					</div>
+					<div class="load-more-wrapper d-flex justify-content-center align-items-center mt-5" id="loadMore">
+						<button class="btn btn-outline-success" id="loadMoreBtn">Load More</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+@section Scripts{
+
+	<script src="~/backend/js/script.js" asp-append-version="true"></script>
+}
+

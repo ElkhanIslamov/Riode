@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+}
+
+@model Product
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Change data</h4>
+                        <p class="card-description">
+                           and save
+                        </p>
+                        <form class="forms-sample" method="post">
+                            <div class="form-group">
+                                <label for="Name">Name</label>
+                                <input class="form-control" asp-for="Name" placeholder="Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="Description">Description</label>
+                                <input class="form-control" asp-for="Description" placeholder="Description">
+                            </div>
+                            <div class="form-group">
+                                <label for="Price">Price</label>
+                                <input class="form-control" asp-for="Price" placeholder="Price">
+                            </div>
+                            <div class="form-group">
+                                <label for="Image">Image</label>
+                                <input class="form-control" asp-for="Image" placeholder="Image">
+                            </div>
+                            <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                            <button class="btn btn-light">Cancel</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
